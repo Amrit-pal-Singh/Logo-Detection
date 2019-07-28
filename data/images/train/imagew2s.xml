@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>imagew2s.jpg</filename>
+	<path>/home/amritpal/Documents/aiotize/images/imagew2s.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>swiggy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>63</ymin>
+			<xmax>132</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

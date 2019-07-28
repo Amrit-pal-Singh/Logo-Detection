@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>DiEX0aWW0AA2Xji.jpg</filename>
+	<path>/home/amritpal/Documents/aiotize/images/DiEX0aWW0AA2Xji.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1160</width>
+		<height>653</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>552</xmin>
+			<ymin>288</ymin>
+			<xmax>654</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

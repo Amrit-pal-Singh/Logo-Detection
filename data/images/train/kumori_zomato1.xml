@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kumori_zomato1.jpg</filename>
+	<path>/home/amritpal/Documents/aiotize/images/kumori_zomato1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>336</ymin>
+			<xmax>598</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

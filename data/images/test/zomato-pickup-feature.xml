@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>zomato-pickup-feature.jpg</filename>
+	<path>/home/amritpal/Documents/aiotize/images/zomato-pickup-feature.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>484</xmin>
+			<ymin>236</ymin>
+			<xmax>732</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>CN09B2QU8AA9Xug.jpg</filename>
+	<path>/home/amritpal/Documents/aiotize/images/CN09B2QU8AA9Xug.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>swiggy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>238</ymin>
+			<xmax>668</xmax>
+			<ymax>938</ymax>
+		</bndbox>
+	</object>
+</annotation>

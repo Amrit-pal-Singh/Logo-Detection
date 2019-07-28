@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>index.jpg</filename>
+	<path>/home/amritpal/Documents/aiotize/images/index.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>126</ymin>
+			<xmax>116</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>
